@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangdd-ola&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+- 🔭 I’m currently working at OlaChat
+- ⚡ I’m good at golang, php, java, c++
+- 📫 Reach me: [zhang.dongdong@olaola.chat](mailto:zhang.dongdong@olaola.chat)
+
 <!--
-**zhangdd-ola/zhangdd-ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhangddjs/zhangddjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
